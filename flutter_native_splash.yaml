@@ -1,0 +1,14 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+#  color: "#42a5f5"
+  background_image: "assets/moon_star.png"
+  image: "assets/moon_star.png"
+
+  android_12:
+    # background color
+    color: "#42a5f5"
+    image: "assets/moon_star.png"
+    branding: "assets/s_logo.png"
